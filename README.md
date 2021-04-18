@@ -4,7 +4,9 @@
 
 Follow the link and install Flutter and Dart: [Flutter Installation](https://flutter.dev/docs/get-started/install) \
 Have at least on way to debug a flutter project. You can use Android Emulator, iOS Simulator, Web, Windows (needs Visual Studio Build Tools) etc. \
-You can create and run your first application by following these [steps](https://flutter.dev/docs/get-started/test-drive?tab=vscode).
+You can create and run your first application by following these [steps](https://flutter.dev/docs/get-started/test-drive?tab=vscode). \
+\
+[Flutter Documentation](https://flutter.dev/docs)
 
 ## Usage
 Just clone this repository and run 
@@ -16,6 +18,7 @@ flutter run //or press debug in your IDE
 in your source folder.
 
 ## Code Snippets needed during the presentation
+You can find the demo on [Github Pages](https://jdk-21.github.io/eportfolio-flutter).
 ### Calculator logic
 ```Dart
 //Calculator logic
